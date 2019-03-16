@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/media/younes/7FD648EC27257A52/projects/Design Patterns/AbstractFactory/AbstractFactory.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
